@@ -68,3 +68,7 @@
 //     let react = Noshape;
 //     println!("{:?}", react.area());
 // }
+
+fn main(){
+    
+}
